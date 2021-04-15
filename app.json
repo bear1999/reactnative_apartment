@@ -1,0 +1,6 @@
+{
+  "name": "Test1",
+  "displayName": "NSY Apartment",
+  "Hosting": "http://192.168.43.173:8080/apartment",
+  "Server": "http://192.168.43.173:3000"
+}
